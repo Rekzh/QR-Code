@@ -1,0 +1,40 @@
+@import url('https://fonts.googleapis.com/css2?family=Outfit&family=Roboto&display=swap');
+
+body {
+    margin: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background: #d5e1ef;
+    font-family: 'Outfit', sans-serif;
+}
+
+.panel {
+    background: white;
+    padding: 32px;
+    height: auto;
+    width: 400px;
+    text-align: center;
+    border-radius: 20px;
+}
+
+img {
+    height: auto;
+    width: 80%;
+    border-radius: 20px;
+}
+
+.title {
+    color: #1c2d49;
+    font-weight: 700px;
+}
+
+.description-box {
+}
+
+.description {
+    color: #858996;
+    font-size: 15px;
+    font-weight: 400px;
+}
